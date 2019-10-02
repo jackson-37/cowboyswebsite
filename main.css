@@ -1,0 +1,365 @@
+body {margin: 0;}
+body {
+background-color:#9DD9EB;
+}
+#logo {
+width:20%;
+}
+#intro {
+color: #000D4D;
+margin-top: -210px;
+margin-left: 400px;
+font-family:Trocchi;
+}
+
+#lombardi {
+position:relative;
+height:150px;
+left:20px;
+top:-530px;
+width:15%;
+height:350px;
+}
+
+#theboyz {
+position:relative;
+width:50%;
+left:300px;
+top:100px;
+
+}
+#wname {
+margin-left:20px;
+margin-top:20px;
+color:#000D4D;
+
+}
+
+#bobby {
+position:relative;
+width:30%;
+margin-left:20px;
+color:#0C67E8;
+top:-100px;
+}
+#sup {
+position:relative;
+top:100px;
+width:80%;
+left:170px;
+}
+#believe {
+position:relative;
+left:170px;
+font-size:130%;
+color:#0C34E8;
+font-family:Oswald;
+width:80%
+}
+#six {
+position:relative;
+top:200px;
+left:600px;
+}
+#number {
+position:relative;
+top:-250px;
+left:350px;
+color:#000D4D;
+font-family:Trocchi;
+font-size:140%;
+}
+#numbersix {
+position:relative;
+top:-230px;
+left:350px;
+color:#0C34E8;
+font-family:Trocchi;
+font-size:110%;
+width:25%;
+}
+#disclaimer {
+position:relative;
+color:#000D4D;
+font-family:Trocchi;
+font-size:140%;
+top:-300px;
+left:20px;
+}
+#news {
+margin-left: 20px;
+color:#000D4D;
+}
+
+#injury {
+margin-left: 500px;
+margin-top:-279px;
+font-family: Patua one;
+}
+#gallup {
+width:30%
+}
+#injuryinfo {
+font-size:100%;
+width:40%;
+color:#0C67E8;
+font-family:Teko;
+}
+#dub {
+position:relative;
+width:44%;
+margin-top:200px;
+left:-500px;
+}
+#dolphin {
+position:relative;
+left:500px;
+top:-300px;
+font-family:Patua One;
+}
+#dubinfo {
+position:relative;
+font-size:150%;
+width:25%;
+left:500px;
+top:-300px;
+color:#0C67E8;
+font-family:Teko;
+}
+#dakz {
+position:relative;
+width:35%;
+left:1000px;
+top:-850px;
+}
+#speech {
+position:relative;
+top:-800px;
+margin-left:20px;
+font-size:120%;
+color:#0C67E8;
+font-family:Acme;
+}
+#tostar {
+position:relative;
+width:80%;
+left:150px;
+top:-800px;
+}
+#fanstuff {
+position:relative;
+font-family:Lobster;
+font-size:180%;
+left:20px;
+}
+#caption {
+position:relative;
+font-size:110%;
+font-family:Denk One;
+left:20px;
+width:40%
+}
+#crawl {
+position:relative;
+left:800px;
+top:-400px;
+}
+#legend {
+color:Dark Blue;
+position:relative;
+left:800px;
+top:-400px;
+font-size:150%;
+font-family: Faster One;
+}
+#clownfans {
+position:relative;
+left:650px;
+width:50%;
+top:-340px;
+}
+#thanks {
+position:relative;
+top:-700px;
+left:20px;
+color:#2F00B0;
+font-size:150%;
+font-family:wendy one;
+width:40%
+
+}
+#contact {
+position:relative;
+left:20px;
+font-family:Be Vietnam;
+}
+#insta {
+position:relative;
+left:20px;
+font-size:140%;
+}
+
+#fumble {
+position:relative;
+left:20px;
+top:-400px;
+width:45%;
+}
+#form {
+position:relative;
+left :750px;
+top:-730px;
+font-size:120%;
+color:#020085;
+font-family:Joti One;
+}
+#hurdle {
+position:relative;
+left:780px;
+top:-400px;
+width:45%;
+}
+#eatup {
+position:relative;
+left:100px;
+top:-700px;
+font-size:130%;
+font-family:Roboto Condensed;
+color:#1700FF;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+
+input[type=submit] {
+  background-color: blue;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Navigation Bar */
+ul.sidenav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: grey;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+ul.sidenav li a {
+  display: block;
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+ 
+ul.sidenav li a.active {
+  background-color: blue;
+  color: white;
+}
+
+ul.sidenav li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 25%;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+@media screen and (max-width: 9000px) {
+  ul.sidenav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  ul.sidenav li a {
+    float: left;
+    padding: 15px;
+  }
+  
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  ul.sidenav li a {
+    text-align: center;
+    float: none;
+  }
+/* Navigation Bar End */
+
+
+
+
